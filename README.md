@@ -1,0 +1,2 @@
+# -interface_shielding_limiti
+接口的屏蔽和限流采用Redis的做法
