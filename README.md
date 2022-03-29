@@ -1,2 +1,3 @@
 # interface_shielding_limit
 接口的屏蔽和限流采用Redis的做法
+SpringBoot+Redis进行同一个用户都同一个接口，一段时间内访问次数的限制
